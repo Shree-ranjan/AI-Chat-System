@@ -1,3 +1,13 @@
+![Screenshot 2025-01-13 133934](https://github.com/user-attachments/assets/2c37152e-f8f8-4e86-a0c9-84783255034f)
+![Screenshot 2025-01-13 134002](https://github.com/user-attachments/assets/b10606b8-db10-4da7-8d77-89fa6c115f4b)
+![Screenshot 2025-01-13 134044](https://github.com/user-attachments/assets/771e15f7-be45-413d-95d4-2d7fa378430a)
+![Screenshot 2025-01-13 134121](https://github.com/user-attachments/assets/551869a4-8896-4f93-90b6-c65799ba1cc5)
+![Screenshot 2025-01-13 134157](https://github.com/user-attachments/assets/dde766de-1332-4a5c-8331-863d87894d00)
+
+
+
+
+
 # AI Chat System - REST API
 
 This repository contains the implementation of REST APIs for an AI-powered chat system using Django. The system includes features like user registration, login, interaction with a chatbot, and token balance management.
